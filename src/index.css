@@ -1,0 +1,30 @@
+html {
+  box-sizing: border-box
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+  outline-color: #f08001;
+}
+
+body, html, ul, p {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #335d38;
+  font-family: 'Rajdhani', sans-serif;
+  color: #828683;
+  font-size: 16px;
+}
+
+ul {
+  list-style: none;
+}
+
+@media only screen and (max-width: 850px) {
+  body {
+    background-color: #fff;
+  }
+}
