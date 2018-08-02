@@ -1,4 +1,4 @@
-# Eat-it-Asian-in-Cracow
+# Eat-it-Asian-in-Kraków-Cracow
 This is the 8th and final project of Google Front-End Web Developer Nanodegree Scholarship at Udacity. 
 
 ### How it works
