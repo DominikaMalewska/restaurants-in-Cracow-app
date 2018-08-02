@@ -2,7 +2,7 @@
 This is the 8th and final project of Google Front-End Web Developer Nanodegree Scholarship at Udacity. 
 
 ### How it works
-A single page application featuring a map showing locations of Asian restaurants in Cracow. The user is able to filter restaurant's by category or name. Clicking on a marker or on a restaurant's name enable to open a window with an additional information about the venue.
+A single page application featuring a map showing locations of mostly Asian restaurants in Cracow. The user is able to filter restaurant's by category or name. Clicking on a marker or on a restaurant's name enable to open a window with an additional information about the venue.
 
 ### How to get started:
 * clone or download the project
